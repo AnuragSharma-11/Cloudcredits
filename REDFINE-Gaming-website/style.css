@@ -569,12 +569,12 @@ header{
 
 .stones-img{
     position: absolute;
-    margin-top: 25%;
+    margin-top: 50%;
     width: 500px;
 }
 
 .my-name{
-    width: 60%;
+    width: 70%;
 }
 /* Text blur animation */
 .autoBlur{
